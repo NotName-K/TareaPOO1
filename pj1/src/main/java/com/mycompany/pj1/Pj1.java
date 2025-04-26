@@ -5,7 +5,8 @@ public class Pj1 {
     public static void main(String[] args) {
         int z = 42;
         int x = 10;
-        float k = x + z;
+        float k = z * x;
         System.out.println(k);
+        
     }
 }
