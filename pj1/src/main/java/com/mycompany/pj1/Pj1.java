@@ -9,7 +9,8 @@ public class Pj1 {
         int z = 425;
         byte x = 10;
         float k = z * x;
-        System.out.println(y + k);
+        System.out.println("Suma: " + (y + k) + ", Resta: " + (y - k));
+
         
     }
 }
